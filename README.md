@@ -1,10 +1,9 @@
-<<<<<<< HEAD
-# Resume is update
+# Resume is updated
 This is Updated
 
 sdfsdf
 dsfsdfdfsdf
-=======
+
 # Resume uploaded
->>>>>>> 5ee1189260b4906eff8d304c614461c7607080b8
 This is another update
+This is the final version.
